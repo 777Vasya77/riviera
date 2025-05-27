@@ -7,5 +7,5 @@ button.special, `
 input[type=button].special, 
 input[type=reset].special, 
 input[type=submit].special {
-  background-color: #bbd1bf!important;
+  background-color: #cdb083!important;
 }
