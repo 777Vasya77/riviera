@@ -1,0 +1,11 @@
+.g__building-button i {
+  background: #cdb083 !important;
+}
+
+.button.special, 
+button.special, `
+input[type=button].special, 
+input[type=reset].special, 
+input[type=submit].special {
+  background-color: #bbd1bf!important;
+}
