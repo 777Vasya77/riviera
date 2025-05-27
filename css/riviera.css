@@ -1,5 +1,5 @@
 .g__building-button i {
-  background: #cdb083 !important;
+  background: #9d6c5e !important;
 }
 
 .button.special, 
@@ -7,5 +7,5 @@ button.special,
 input[type=button].special, 
 input[type=reset].special, 
 input[type=submit].special {
-  background-color: #cdb083!important;
+  background-color: #9d6c5e!important;
 }
