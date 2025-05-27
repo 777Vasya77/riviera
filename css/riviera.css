@@ -9,3 +9,12 @@ input[type=reset].special,
 input[type=submit].special {
   background-color: var(--primary-color) !important;
 }
+
+.floors-table > .floors {
+  background: var(--primary-color) !important;
+}
+
+.go-back a,
+.currency-dropdown a {
+  color: var(--primary-color) !important;
+}
