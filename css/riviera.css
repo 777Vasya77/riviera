@@ -11,6 +11,12 @@ input[type=submit].special {
   background-color: var(--primary-color) !important;
 }
 
+.room-types > div[data-type=bedrooms_count],
+.room-types > div[data-type=bathrooms_count],
+.currency-dropdown {
+  display: none;
+}
+
 .floors-table > .floors {
   background: var(--primary-color) !important;
 }
