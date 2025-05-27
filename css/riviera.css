@@ -18,3 +18,33 @@ input[type=submit].special {
 .currency-dropdown a {
   color: var(--primary-color) !important;
 }
+
+.apt-info .block-info .label,
+.apt-info .common-info .left .label span:last-of-type {
+  background: var(--primary-color) !important;
+}
+
+.select2-container--default .select2-results__option--highlighted[aria-selected] {
+  background: var(--primary-color) !important;
+}
+
+.view-buttons button.active {
+  background: var(--primary-color) !important;
+}
+
+.iframe-layout .floor-info .free-apartments-list tbody tr:hover, .iframe-layout .floor-info .free-apartments-list tbody tr:hover b {
+  color: var(--primary-color) !important;
+}
+
+.apartment-type-card .footer .accordion-btn {
+  background-color: var(--primary-color) !important;
+}
+
+.apartment-type-card .footer .units .unit,
+.apartment-type-card .footer .units .unit b {
+  color: var(--primary-color) !important;
+}
+
+.apt-info .view-label span {
+  background: var(--primary-color) !important;
+}
