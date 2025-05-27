@@ -48,3 +48,18 @@ input[type=submit].special {
 .apt-info .view-label span {
   background: var(--primary-color) !important;
 }
+
+/* стиль нижче задає розміри на все вікно  */
+body #layout-iframe {
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    border: none;
+}
+
+/* стиль нижче задає положення для кнопки закриття вікна */
+body .btn-close-iframe {
+    top: 15px;
+    right: 25px;
+}
