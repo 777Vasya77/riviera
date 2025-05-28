@@ -55,3 +55,11 @@ input[type=submit].special {
 .apt-info .view-label span {
   background: var(--primary-color) !important;
 }
+
+body #layout-iframe {
+  z-index: 9999 !important;
+}
+
+body .btn-close-iframe {
+  z-index: 99991 !important;
+}
