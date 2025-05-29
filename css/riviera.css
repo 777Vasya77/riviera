@@ -39,8 +39,9 @@ input[type=submit].special {
   background: var(--primary-color) !important;
 }
 
-.iframe-layout .floor-info .free-apartments-list tbody tr:hover, .iframe-layout .floor-info .free-apartments-list tbody tr:hover b {
-  color: var(--primary-color) !important;
+.iframe-layout .floor-info .free-apartments-list tbody tr:hover, 
+.iframe-layout .floor-info .free-apartments-list tbody tr:hover b {
+  filter: brightness(.5);
 }
 
 .apartment-type-card .footer .accordion-btn {
