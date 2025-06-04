@@ -64,3 +64,12 @@ body #layout-iframe {
 body .btn-close-iframe {
   z-index: 99991 !important;
 }
+
+/* Hide specific elements in the free apartments list */
+.free-apartments-list th:nth-child(4), 
+.free-apartments-list td:nth-child(4), 
+.free-apartments-list th:nth-child(5), 
+.free-apartments-list td:nth-child(5), 
+.apt-tooltip .price {
+    display: none !important;
+}
