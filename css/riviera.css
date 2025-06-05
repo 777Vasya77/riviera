@@ -73,3 +73,10 @@ body .btn-close-iframe {
 .apt-tooltip .price {
     display: none !important;
 }
+
+.apt-info .description p:first-child, 
+.apt-info .description .price, 
+.room-types + hr,
+.btn-download-offer {
+  display: none !important;
+}
