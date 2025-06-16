@@ -74,6 +74,7 @@ body .btn-close-iframe {
     display: none !important;
 }
 
+/* Hide price elements */
 .apt-info .description p:first-child, 
 .apt-info .description .price, 
 .room-types + hr,
